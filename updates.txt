@@ -1,3 +1,4 @@
 Add an Apply Now button to the courses page
 For each course, add a lil read more link at the bottom
 Fix up all the texts
+Add a picture to seperate the words on the about us page
